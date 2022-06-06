@@ -12,3 +12,9 @@ pip install -r requirements.txt
 ## check example README.md
 
 [example](example/)
+
+## License
+
+The source code is licensed MIT.
+
+See [LICENSE](LICENSE)
