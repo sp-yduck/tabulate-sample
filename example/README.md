@@ -1,3 +1,5 @@
+# This is a example file
+
 |    | A   | B   | C   |
 |----|-----|-----|-----|
 | a  | o   | o   | o   |
